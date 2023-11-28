@@ -71,7 +71,6 @@ namespace Assignment22
                     Console.WriteLine("Invalid choice!!!");
                     break;
                 }
-                Console.ReadLine();
             }
         }
     }
